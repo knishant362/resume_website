@@ -1,0 +1,15 @@
+.mainContainer{
+    width: 1175px;
+}
+
+.main{
+    width: 75%;
+    float: right;
+    background-color: #0000ff;
+}
+
+.side{
+    width: 25%;
+    float: left;
+    background-color: brown;
+}
