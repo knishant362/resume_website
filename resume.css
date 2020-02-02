@@ -1,15 +1,30 @@
 .mainContainer{
-    width: 1175px;
+    padding: 10mm;
+    padding-bottom: 20mm;
 }
 
-.main{
+.rightContainer{
     width: 75%;
     float: right;
-    background-color: #0000ff;
+    
 }
 
-.side{
-    width: 25%;
+.leftContainer{
+    width: 15%;
     float: left;
     background-color: brown;
+    padding: 20mm;
+}
+
+.point{
+    color: darkblue;
+    font-weight: bold;
+}
+
+.peek{
+    font-weight: bold;
+    color: chartreuse;
+}
+hr{
+    color: rgb(77, 7, 206);
 }
